@@ -8,6 +8,8 @@ library(tidytext)
 library(ggplot2)
 library(dplyr)
 
+#########
+
 ############### PART 1: extraction des textes
 
 ##### Option 1: 698 documents via une requete
